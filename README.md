@@ -1,6 +1,6 @@
 # PlayCS Tournament Rulebook
 
-Official rules and regulations for Counter-Strike 2 tournaments operated by [PlayCS](https://playcs.gg), in association with the Israeli Gaming Association.
+Official rules and regulations for Counter-Strike 2 tournaments operated by [PlayCS](https://playcs.gg).
 
 ## Documents
 

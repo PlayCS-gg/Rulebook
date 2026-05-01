@@ -1,7 +1,7 @@
 # PlayCS Tournament Rulebook
 
 **Version 1.0 — April 2026**
-**Tournament Operator:** PlayCS (playcs.gg), in association with the Israeli Gaming Association
+**Tournament Operator:** PlayCS (playcs.gg)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### 2. Eligibility & Registration
 
-2.1 **Regional Eligibility.** PlayCS tournaments are open to Israeli teams. To be eligible, a team must have a majority of its roster (at least 3 out of 5 players) holding Israeli citizenship or permanent residency. This criterion is objective, transparent, and applied equally to all teams in compliance with Valve's Tournament Operating Requirements (Section 3.5).
+2.1 **Eligibility.** PlayCS tournaments are open to players and teams internationally. There are no nationality or residency requirements unless explicitly stated on a specific tournament's page. Any regional restrictions (if applicable) will be clearly communicated before registration opens and applied equally to all participants in compliance with Valve's Tournament Operating Requirements (Section 3.5).
 
 2.2 **Age Restriction.** All participants must be at least 16 years of age at the time of registration.
 
@@ -269,7 +269,7 @@
 
 ### 16. Online Environment
 
-16.1 **Server Location.** Online matches are played on servers located in Europe (typically Frankfurt or Amsterdam), providing optimal connectivity for Israeli-based teams.
+16.1 **Server Location.** Online matches are played on servers located in the region specified by the tournament configuration (e.g., Europe, North America). The server region is displayed on the tournament page before registration.
 
 16.2 **Player Environment.** During an online match, only the five (5) active players (and one registered coach, if applicable) may be in the player's physical or virtual environment. No external assistance, coaching, or communication from non-team members is permitted.
 
